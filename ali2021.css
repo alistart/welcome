@@ -1,0 +1,540 @@
+*{
+    padding: 0;
+    margin: 0;   
+}
+body{
+    background: rgba(45, 87, 80, 0.363);
+
+}
+ 
+ .logo{
+      border-radius: 60px;
+       font-size: 18px;
+       margin-left: 10px;
+       color: #000;
+} 
+.logo:hover{
+    color: rgb(255, 0, 0);   
+} 
+
+.sec-3 .card{
+      text-align: center;
+      margin-left: 10px;
+ }
+
+ .Link{
+    border-radius: 100%;
+    height: 100px;
+    height: 50px;
+    font-size: 16px;
+    margin-left: 10px; 
+} 
+.Link:hover{
+    color: rgb(4, 0, 255);
+    text-decoration: underline;
+} 
+
+.dropdown-toggle{ 
+    border-radius: 100%;
+    height: 100px;
+    height: 50px;
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.nav-link{
+    border-radius: 100%;
+    height: 10px;
+    height: 50px;
+    font-size: 16px;
+    margin-left: 10px; 
+}
+.img1{
+    background: url(../imge/Path\ 1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.wel{
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+     color: rgb(255, 255, 255);
+}
+.wel:hover{
+    color: rgb(255, 208, 0);
+    text-decoration: underline;
+} 
+.Happieness{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    color: rgb(236, 235, 245);
+}
+.Happieness:hover{
+    color: rgb(255, 80, 11);
+    text-decoration: underline;
+} 
+.Lorem{
+    color: rgba(117, 77, 77, 0.466);
+
+}
+.img2{
+    background: url(../imge/Group\ 2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 80vh;
+    padding-right: 30px;
+}
+
+.nav-1.black{
+     background: rgba(37, 64, 223, 0.692);
+     transition: 0.5s;
+}
+.sec1{ 
+     background-color: #07dd008c;
+
+}
+
+.Exciting{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: #ff0000;   
+}
+.Exciting:hover{
+    color: #e100ff;
+    text-decoration: underline;
+} 
+.img-sec1 img{
+         width: 250px;
+         height: 200px;
+         box-shadow: 2px 2px 4px rgb(54, 54, 54);
+         border-radius: 7px;
+         transition: all 0.5s ease-in-out ;
+}
+.img-sec1 img:hover{
+    transform: rotate(5deg) scale(1.10);
+    z-index: 9;
+}
+
+.img-1{
+    position: absolute;
+    right: 35%;
+    bottom: 50%;
+    border-radius: 50px;
+
+    
+}
+.img-2{
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+    border-radius: 50px;
+}
+.img-3{
+    position: absolute;
+    right: 20%;
+    top: 10%;
+    border-radius: 50px;
+}
+
+.sec-2{
+    background: url(../imge/Group\ 3.png), url(../imge/beautiful-beach-view-koh-chang-island-tour-boat-tourists-seascape-trad-province-eastern-thailand-blue-sky-background_1150-10247.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 100vh;
+     
+
+}
+
+.sec-2 .card{
+    margin-top: 150px;
+    margin-bottom: 50px;
+    
+}
+
+h3{
+    margin: 10px;
+    color: red;
+}
+
+.sec-3{
+    text-align:left;
+    background-color: #90cbda;
+    padding-top: 50px;
+    margin-right: 50px;
+    border-radius: 100%;
+    
+}
+.sec-3 .card .imge1{
+    background: url(../imge/Path\ 19.png);
+    background-size: cover;
+}
+
+.sec-3 .card .imge2{
+    background: url(../imge/Path\ 5.png);
+    background-size: cover;
+
+}
+.sec-3 .card .imge3{
+    background: url(../imge/Path\ 6.png);
+    background-size: cover;
+
+}
+.card:hover{
+    transform: rotate(8deg) scale(1.10);
+    z-index: 9;
+}
+
+.sec4{
+    
+    border-radius: 20px;
+    margin-left: 50px;
+}
+
+ .cards3{
+        
+         height: 100vh;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.SEA{
+    text-align: center;
+      padding-left: 0px;
+      padding-right: 0px;
+       background-color: rgb(240, 241, 123);
+       margin-top: -20px;
+       font-size: 20px;
+       border-top-color: rgb(238, 10, 10);
+       width: 100px;
+       height: 30px;
+}
+.SEA:hover{
+    transform: rotate(0deg) scale(1.30);
+}
+
+.expolrer{
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        margin-left: 5px;
+         background-color: rgba(240, 241, 123); 
+}
+
+.expolrer:hover{
+    transform: rotate(0deg) scale(1.30);
+}
+
+.FOREST{
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    margin-left: 50px;
+}
+
+.HIKER{
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    margin-left: 50px;
+}
+
+.SHOE{
+    text-align: center;
+    width: 80px;
+    height: 50px;
+}
+
+.WE{
+    text-align: center;
+     margin-top: 0px;
+     margin-bottom: 25px;
+     color: rgb(255, 249, 249);
+     width: 100%;
+     height: 50%;
+}
+.WE:hover{
+    color: rgb(25, 0, 255);
+    text-decoration: underline;
+} 
+
+.text-center {
+    margin-top: 50px;
+    border-radius: 50%;
+    
+}
+.card-4{
+    background-color: beige;
+    box-shadow: 2px  2px 6px ;
+    display: flex;
+    border-radius: 7px;
+}
+.card-4 img{
+    width: 20%;
+    height: 45%;
+    border-radius: 50%;
+    margin-left: 10px;
+
+}
+
+
+/* .p-4{
+    text-align: right;
+    margin-top: 5px;
+} */
+
+
+.Lorem{
+    color: rgb(0, 0, 0);
+    margin-top: 20px;
+    margin-left: 60px;
+
+}
+.Lorem:hover{
+    color: rgb(255, 77, 45);
+    text-decoration: underline;
+}
+
+.ali3{
+    margin-top: 30px;
+    color: rgb(146, 39, 196);
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.ali3:hover{
+    color: rgb(255, 77, 45);
+    text-decoration: underline;
+} 
+
+.ali4{
+    margin-top: 30px;
+    color: rgb(31, 7, 250);
+    margin-top: 25px;
+    margin-left: 40px;   
+}
+.ali4:hover{
+    color: rgb(255, 77, 45);
+    text-decoration: underline;
+} 
+
+.sec-5{
+         background-color: blueviolet;
+         background-size: cover;
+}
+
+.img-5{
+    background: url(../imge/beautiful-beach-view-koh-chang-island-tour-boat-tourists-seascape-trad-province-eastern-thailand-blue-sky-background_1150-10247.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 7%;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.692)4, 44, 44;
+
+}
+img-5:hover{
+    transform: rotate(5deg) scale(1.30);
+}
+
+.bosa2021{
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.Read{
+    margin-bottom: 100px;
+}
+
+.START{
+    text-align: left;
+    color: hsl(246, 100%, 49%);
+    font-size: 25px;
+    box-shadow: 20px;
+}
+.START:hover{
+    color: rgb(255, 77, 45);
+    text-decoration: underline;
+} 
+
+.form{
+       box-shadow: #9b2176;
+
+
+}
+
+footer{
+     height: 100px; 
+    width: 100%;
+    background-color: rgb(117, 38, 124);
+    border-top-right-radius: 100%;
+    border-top-left-radius: 100%;
+    position: absolute;
+    margin-top: 100px;
+}
+
+footer .bigdiv {
+    padding-left: 50px;
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer .bigdiv .endpara p{
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(2, 6, 248);
+    padding-top: 20px;
+}
+
+
+footer .bigdiv h2{
+   height: 20px;
+}
+
+footer .bigdiv li{
+     display: block; 
+    text-decoration: none;
+    padding-bottom: 30px; 
+
+}
+
+footer .bigdiv a{
+    text-decoration: none;
+    color: rgb(251 251 251);
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+footer .bigdiv a:hover{
+    color: rgb(255, 77, 45);
+    text-decoration: underline;
+}
+
+footer .bigdiv .endpara h2{
+    color: rgb(0, 16, 233);
+    font-family: "times new roman";
+    font-size: 22px;
+    text-align: left;
+    padding: 0px 0px 0px 100px;
+}
+
+footer .bigdiv .endpara .p{
+    font-size: 14px;
+    line-height: 20px;
+    color: #fafafa;
+    padding-top: 15px;
+}
+
+footer .bigdiv {
+    padding-left: 50px;
+    padding-top: 120px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer .bigdiv h3{
+    text-align: center;
+    color: rgba(233, 115, 37, 0.842);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding-left: 10px;
+}
+
+footer .bigdiv .contact h3{
+   padding-bottom: 10px;
+   padding-right: 35px;
+}
+
+footer .bigdiv .contact h4{
+margin-bottom: 10px;
+color: white;
+font-size: 15px;
+}
+
+div .reserved{
+    padding-left: 10px;
+    height: 10px;
+    top: -50px;
+    width: 400px;
+    padding-right: 0px;
+
+}
+footer .reserved{
+    position: relative;
+    top: 40px;
+    padding-left: 50px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    word-spacing: 6px;
+
+}
+
+footer span{
+    color: rgb(173, 0, 0);
+    font-size: 25px;
+}
+
+.reserved a img{
+     margin: top 5px; 
+     margin-left: 20px;
+     border-radius: 50%;
+     opacity: 0.8; 
+     transition: all 0.5s ease-in-out;
+
+ }
+
+ .reserved a img:hover{
+    box-shadow: 2px 5px 5px 7px rgb(185, 235, 236); 
+   transform: skew(20deg);
+}
+
+footer .bigdiv div {
+    height: 10px;
+    transition: all 0.5s ease-in-out;
+}
+
+footer .bigdiv div:hover{
+    color: rgb(255, 77, 45);
+    text-decoration: underline;
+}
+
+.the best:hover{
+    color: rgb(255, 0, 34);
+    text-decoration: underline;
+}
+/*END OF FOOTER  */
+
+
+@media only screen and (max-width:600px){
+    .img-1{
+        height: 40vh;
+
+    }
+    .text-1{
+        padding-bottom: 25%;
+    }
+
+    .sec-2{
+        height: 150vh;
+    }
+
+    .sec-2 .card{
+        margin-top: 20px;
+     }
+
+     .cards{
+          margin-top: 170px;
+     }
+     .sec4{
+         margin-left: 20px;
+     }
+}
+
+
+
+
+
+

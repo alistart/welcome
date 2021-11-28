@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+     background: url(../imge/maxresdefault\ \(1\).jpg);
+     background-repeat: no-repeat;
+     width: 100%;
+     height: 150%;
+
+}
+
+.ali{
+
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px 50px 30px 30px;
+}

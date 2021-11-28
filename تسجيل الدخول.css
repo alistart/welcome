@@ -1,0 +1,175 @@
+
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-image:url(../imge/6cf690e6-3c2c-434c-89ad-c90f1f02b43e.jpg);
+    
+}
+ body:hover{
+    background-position: bottom; 
+   background-image: url(../imge/68185358-93ce-46ed-b698-28311b3c0641.jpg);
+  
+} 
+
+.nav-1.black{
+    background: rgba(69, 199, 145, 0.671);
+    transition: 0.5s;
+}
+
+.logo{
+    width: 10%;
+    height: 10%;
+    color: #000;
+}
+
+.logo:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+} 
+.back{
+    margin-left: 50px;
+    color: #000;
+}
+.back:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+} 
+
+Home:hover{
+    color: rgb(255, 0, 13);
+    text-decoration: underline;
+} 
+
+.ali{
+    box-shadow: aqua;
+    text-align: center;
+    margin-top: 30px;
+   
+   margin-left: 500px;
+   margin-right: 500px; 
+   background: url(../imge/pyramids.jpg);
+   
+}
+
+.ali:hover{
+
+    background-position: top;
+}
+
+
+   /*add full-width input fields*/
+  
+   input[type=text],
+   input[type=password] {
+       width: 80%;
+       padding: 12px 20px;
+       margin: 5px 0;
+       display: inline-block;
+       border: 2px solid #ccc;
+       box-sizing: border-box;
+   }
+   /* set a style for the main container */
+   .main-container {
+       direction: rtl;
+       padding-right: 15px;
+       padding-left: 15px;
+       margin-right: auto;
+       margin-left: auto;
+       max-width: 700px;
+   }
+ 
+ 
+   /* set a style for all buttons*/
+  
+   button {
+       background-color: Green;
+       color: white;
+       padding: 15px 20px;
+       margin: 5px 0;
+       cursor: pointer;
+       width: 100%;
+   }
+   /*set styles for the cancel button*/
+  
+   .cancelbtn {
+       padding: 15px 20px;
+       background-color: #FF2E00;
+   }
+   /*float cancel and signup buttons and add an equal width*/
+  
+   .cancelbtn,
+   .signupbtn {
+       float: left;
+       width: 50%;
+   }
+   /*add padding to container elements*/
+  
+   .container {
+       padding: 16px;
+   }
+   /*clear floats*/
+  
+   .clearfix::after {
+       content: "";
+       clear: both;
+       display: table;
+   }
+   /*styles for cancel button and signup button
+   on extra small screens*/
+  
+   @media screen and (max-width: 300px) {
+       .cancelbtn,
+       .signupbtn {
+           width: 100%;
+       }
+   }
+
+
+   .Registry{
+               text-align: center;
+               color: rgb(255, 255, 255,145);
+               margin-top: 20px;
+
+
+   }
+
+   .email{
+       color: rgb(255, 255, 255);
+   }
+   .email:hover{
+    color: rgb(255, 0, 13);
+    text-decoration: underline;
+} 
+
+   .pas{
+      
+    color: rgb(255, 255, 255);
+   }
+   .pas:hover{
+    color: rgb(255, 0, 13);
+    text-decoration: underline;
+} 
+
+   .pass{
+           color: rgb(255, 255, 255);
+   }
+
+   .password{
+           color: rgb(255, 255, 255);
+   }
+
+   .password:hover{
+    color: rgb(255, 0, 13);
+    text-decoration: underline;
+} 
+   .check{
+    color: rgb(255, 255, 255);
+   }
+   .check:hover{
+    color: rgb(4, 226, 255);
+    text-decoration: underline;
+} 
+
